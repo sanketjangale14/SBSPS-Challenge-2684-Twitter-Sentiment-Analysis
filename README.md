@@ -13,7 +13,7 @@ Natural Language Processing (NLP) will be used to convert the sentiments of thes
 There will also be an insight on the emotions present in the tweets.
 This data will be then visualized onto a UI where the viewer can analyze the sentiments and create charts and graphs.
 
-Drive Link of Video Presentation:
+Google Drive Link of Video Presentation:
 https://drive.google.com/drive/folders/1SuSxDObTKrVXJWoDm2MqIuUx8Vy4QxYI?usp=sharing
 
 YouTube Link of Video Presentation:
