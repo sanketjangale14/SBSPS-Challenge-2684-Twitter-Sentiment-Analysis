@@ -16,5 +16,9 @@ This data will be then visualized onto a UI where the viewer can analyze the sen
 Google Drive Link of Video Presentation:
 https://drive.google.com/drive/folders/1SuSxDObTKrVXJWoDm2MqIuUx8Vy4QxYI?usp=sharing
 
-YouTube Link of Video Presentation:
+YouTube Link of Video Presentation for IBM HACK CHALLENGE 2020:
 https://youtu.be/aJq9vd7Qs34
+
+YouTube Link of Video Presentation for IBM CALL FOR CODE CHALLENGE 2020:
+https://www.youtube.com/watch?v=Nf8Uko4S2qw&t=15s
+
